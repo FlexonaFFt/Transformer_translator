@@ -16,6 +16,6 @@ The first thing they tell us is that such models generate new text. That is, the
 
 The second part, "pre-trained", means that these models have gone through a pre-training process on huge amounts of data before being applied to specific tasks. This preliminary stage of training allows the model to absorb extensive knowledge about the language, the world and many other areas that
 
-<img src="img/model.png" alt="model-architecture" width="300" />
+<img src="img/model.png" alt="model-architecture" width="1200" />
 
 ---
